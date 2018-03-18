@@ -1,5 +1,5 @@
 # Stretta-Inspiration-Tools
-A collection of useful devices for Ableton Live
+A collection of devices for Ableton Live: instruments, audio effects, MIDI effects & CV tools
 
 Installation
 -----------
